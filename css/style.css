@@ -178,17 +178,19 @@ body {
 
 .sidebar-section {
 background-color: #1E2939;
-width: 470px;
+width: 490px;
 padding: 30px 0;
 }
 
+
 .my-photo {
   /* position: absolute; */
-  width: 470px;
-  height: 754px;
+  width: 490px;
+  height: 454px;
   left: 40px;
   top: 80px;
-}
+} 
+
 
 .contacts-section {
   margin: 50px 0 0 40px;
